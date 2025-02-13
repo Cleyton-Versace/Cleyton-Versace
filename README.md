@@ -1,9 +1,9 @@
 - 👋 Olá, eu sou o Cleyton Versace
 - 👀 Estou interessado em aprofundar meu conhecimento em programação 
-- 🌱 Eu estudo frequentemente a linguagem C#
-- 💞️ Adoraria colaborar em um projecto qualquer com ou sem fins lucrativos
+- 🌱 Eu estudo frequentemente a linguagem JavaScript
+- 💞️ Adoraria colaborar em um projecto qualquer com ,ou, sem fins lucrativos
 - 📫 Qualquer que for a situação me puxa no whatsapp 943940579
-- 😄 Estou aprendendo a criar jogos 2D na unity, agradeceria se alguém se disponibilizar para ser meu tutor
+- 😄 Estou aprendendo a mexer agora com o Node.js, estou aprendendo programação no lado do servidor.
 - ⚡ O foco é estudar, lembrando sempre que tenho uma família para orgulhar
 
 <!---
